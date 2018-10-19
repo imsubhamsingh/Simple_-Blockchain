@@ -1,5 +1,5 @@
-# Simple_Blockchain
-A simple Blockchain from scratch implemented in python
+# Simple_Blockchain 
+A simple Blockchain with Mining from scratch implemented in python
 # Dependencies
 * hashlib
 * datetime
